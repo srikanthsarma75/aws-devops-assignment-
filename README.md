@@ -41,4 +41,4 @@ Learnings
 • Learned Nginx document root (/var/www/html).
 • Learned Git workflow: add, commit, push, pull, merge, SSH authentication, and resolving push
 conflicts.
-• Improved Linux command-line troubleshooting skills.
+• Improved Linux command-line troubleshooting skills
